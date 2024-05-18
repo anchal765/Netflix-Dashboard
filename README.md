@@ -1,4 +1,4 @@
-# Netflix-Dashboard
+# Netflix-Dashboard (EXCEL, SQL,POWER BI)
 There is two dashboard one is Overview and other is Single title view.
 ## About Data:
 
